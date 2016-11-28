@@ -27,3 +27,16 @@
 			
 			</div><!--tutup baca-->
 	</div><!--tutup row-->
+<br><br>
+	<center><div id="jam-digital">
+        <div id="hours">
+        <p id="jam"></p>
+    </div>
+    <div id="minute">
+        <p id="menit"></p>
+    </div>
+    <div id="second">
+        <p id="detik"></p>
+    </div>
+</div></center>
+
