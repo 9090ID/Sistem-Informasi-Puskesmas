@@ -1,7 +1,7 @@
 <br /><br />
 <div class="navbar navbar-fixed-bottom">
 <div class="foot">
-     <h5>&#169; Copyright 2016 by Admin Puskesmas Kemantan, Powered by Hafidz Azwar</h5>
+     <h5>&#169; Copyright 2016 by CodeSearch</h5>
 </div>
 	</div> 
   <!-- Le javascript
