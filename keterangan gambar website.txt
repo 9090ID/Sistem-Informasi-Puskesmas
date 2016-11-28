@@ -1,0 +1,3 @@
+Gambar Carousel : 1366px x 145px
+Gambar Galleri	: 1366px x 500px
+Gambar Artikel  : 240px  x 160px
