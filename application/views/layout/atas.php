@@ -166,6 +166,11 @@ font-size:17px;
 }
 .judul{color:green;font-family:Cooper Black;text-shadow: 5px 3px 13px GREEN;font-size:23px;}
 .menukanan{color:green;font-family:forte;text-shadow: 9px 8px 12px black;font-size:20px;}
+	#jam-digital{overflow:hidden; width:200px}
+#hours{float:left; width:50px; height:60px; background-color:Red; margin-right:25px}
+#minute{float:left; width:50px; height:60px; background-color:blue;}
+#second{float:right; width:50px; height:60px; background-color:Green; margin-left:25px}
+#jam-digital p{color:#FFF; font-size:36px; text-align:center; margin-top:17px}
 </style>
 </head>
 <body><br />
